@@ -1,0 +1,6 @@
+C:\Users\507\Documents\Code\Completed Projects\Solutions\PrankyPrank\bin\Release\Prank.exe.config
+C:\Users\507\Documents\Code\Completed Projects\Solutions\PrankyPrank\bin\Release\Prank.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\PrankyPrank\bin\Release\Prank.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\PrankyPrank\obj\Release\PrankyPrank.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\PrankyPrank\obj\Release\Prank.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\PrankyPrank\obj\Release\Prank.pdb

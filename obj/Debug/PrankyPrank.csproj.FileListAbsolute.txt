@@ -1,0 +1,14 @@
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\bin\Debug\PrankyPrank.exe.config
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\bin\Debug\PrankyPrank.exe
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\bin\Debug\PrankyPrank.pdb
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\obj\Debug\PrankyPrank.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\obj\Debug\PrankyPrank.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\obj\Debug\PrankyPrank.exe
+C:\Users\507\Documents\Code\Unfinished\PrankyPrank\obj\Debug\PrankyPrank.pdb
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\bin\Debug\PrankyPrank.exe.config
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\bin\Debug\PrankyPrank.exe
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\bin\Debug\PrankyPrank.pdb
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\obj\Debug\PrankyPrank.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\obj\Debug\PrankyPrank.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\obj\Debug\PrankyPrank.exe
+C:\Users\507\Documents\Code\Completed Projects\PrankyPrank\obj\Debug\PrankyPrank.pdb
